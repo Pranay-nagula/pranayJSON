@@ -1,4 +1,4 @@
-[
+{"posts" : [
   {
     "name": "Whiskers",
     "species" : "cat",
@@ -24,3 +24,4 @@
     }
   }
 ]
+}
