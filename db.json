@@ -1,4 +1,5 @@
 [
+  "friends" : [
   {
     "name":"madhan",
     "location":"home",
@@ -24,4 +25,5 @@
     "location":"home",
     "pic":"https://i.pinimg.com/originals/c2/68/73/c26873991a131ba181f91fb258354bf7.jpg"
   } 
+ ]
 ]
